@@ -51,11 +51,11 @@ This project is focused on real-time detection and recognition of road signs usi
    - go to settings and change server url to url for flask appliction 
 
 3. **Start detection of Road Signs from an Image:**
-      <img src="[https://example.com/image.png](https://github.com/user-attachments/assets/c34ac24e-bc75-48e0-b0d8-030ffdc08b76)" alt="Example Image" width="300">
-      
-   - 
+   <img src="https://github.com/user-attachments/assets/c34ac24e-bc75-48e0-b0d8-030ffdc08b76" alt="detection from an Image" width="300">
+
 3. **Start Real-Time Road Sign Detection:**
-   <img src="[https://example.com/image.png](https://github.com/user-attachments/assets/ee26e0fc-e1a0-4fef-a14d-82b1cd257327)" alt="Example Image" width="300">
+   <img src="https://github.com/user-attachments/assets/ee26e0fc-e1a0-4fef-a14d-82b1cd257327" alt="Real-Time" width="300">
+
 
    - 
 
