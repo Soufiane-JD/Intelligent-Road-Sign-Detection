@@ -1,0 +1,55 @@
+﻿Sign,Description,Image
+Speed limit (20km/h),Maximum speed of 20 km/h allowed.,assets/0.png
+Limite de vitesse (20 km/h),Vitesse maximale autorisée de 20 km/h.,assets/0.png
+حد السرعة (20 كم/س),السرعة القصوى المسموح بها 20 كم/س.,assets/0.png
+Speed limit (30km/h),Maximum speed of 30 km/h allowed.,assets/1.png
+Limite de vitesse (30 km/h),Vitesse maximale autorisée de 30 km/h.,assets/1.png
+حد السرعة (30 كم/س),السرعة القصوى المسموح بها 30 كم/س.,assets/1.png
+Speed limit (50km/h),Maximum speed of 50 km/h allowed.,assets/2.png
+Limite de vitesse (50 km/h),Vitesse maximale autorisée de 50 km/h.,assets/2.png
+حد السرعة (50 كم/س),السرعة القصوى المسموح بها 50 كم/س.,assets/2.png
+Speed limit (60km/h),Maximum speed of 60 km/h allowed.,assets/3.png
+Limite de vitesse (60 km/h),Vitesse maximale autorisée de 60 km/h.,assets/3.png
+حد السرعة (60 كم/س),السرعة القصوى المسموح بها 60 كم/س.,assets/3.png
+Speed limit (70km/h),Maximum speed of 70 km/h allowed.,assets/4.png
+Limite de vitesse (70 km/h),Vitesse maximale autorisée de 70 km/h.,assets/4.png
+حد السرعة (70 كم/س),السرعة القصوى المسموح بها 70 كم/س.,assets/4.png
+Speed limit (80km/h),Maximum speed of 80 km/h allowed.,assets/5.png
+Limite de vitesse (80 km/h),Vitesse maximale autorisée de 80 km/h.,assets/5.png
+حد السرعة (80 كم/س),السرعة القصوى المسموح بها 80 كم/س.,assets/5.png
+Speed limit (100km/h),Maximum speed of 100 km/h allowed.,assets/7.png
+Limite de vitesse (100 km/h),Vitesse maximale autorisée de 100 km/h.,assets/7.png
+حد السرعة (100 كم/س),السرعة القصوى المسموح بها 100 كم/س.,assets/7.png
+Speed limit (120km/h),Maximum speed of 120 km/h allowed.,assets/8.png
+Limite de vitesse (120 km/h),Vitesse maximale autorisée de 120 km/h.,assets/8.png
+حد السرعة (120 كم/س),السرعة القصوى المسموح بها 120 كم/س.,assets/8.png
+Yield,Slow down and be ready to stop if necessary to let a pedestrian pass.,assets/13.png
+Cédez le passage,Cédez le passage aux autres véhicules et piétons.,assets/13.png
+إعطاء الأولوية,أعط الأولوية للمركبات والمشاة الآخرين.,assets/13.png
+Stop,You must stop completely and check for other vehicles.,assets/14.png
+Arret,Vous devez vous arrêter complètement et vérifier les autres véhicules.,assets/14.png
+قف,يجب أن تتوقف تمامًا وتتحقق من السيارات الأخرى.,assets/14.png
+Vehicles over 3.5 metric tons prohibited,Vehicles over 3.5 metric tons are prohibited from entering.,assets/16.png
+"Véhicules de plus de 3,5 tonnes interdits","Les véhicules de plus de 3,5 tonnes sont interdits d'entrée.",assets/16.png
+ممنوع المركبات فوق 3.5 طن,ممنوع دخول المركبات التي تزيد عن 3.5 طن.,assets/16.png
+No entry,No vehicles are allowed to enter.,assets/17.png
+Sens interdit,Entrée interdite aux véhicules.,assets/17.png
+ممنوع الدخول,لا يُسمح بدخول المركبات.,assets/17.png
+Pedestrians,Alerts drivers to areas where pedestrians may be crossing the street. Drivers should slow down and prepare to stop.,assets/27.png
+Pietons,Avertit les conducteurs des zones où les piétons peuvent traverser la rue. Les conducteurs doivent ralentir et se préparer à s'arrêter.,assets/27.png
+مشاة,ينبه السائقين إلى المناطق التي قد يعبر فيها المشاة الشارع. يجب على السائقين التباطؤ والاستعداد للتوقف.,assets/27.png
+Children crossing,Indicates areas near schools or parks where children are likely to cross the road. Extra caution is advised.,assets/28.png
+Passage d'enfants,Indique les zones proches des écoles ou des parcs où les enfants sont susceptibles de traverser la route. Une prudence accrue est conseillée.,assets/28.png
+معبر للأطفال,يشير إلى المناطق القريبة من المدارس أو الحدائق حيث من المرجح أن يعبر الأطفال الطريق. يُنصح بتوخي الحذر الشديد.,assets/28.png
+Bicycles crossing,Indicates a crossing where bicycles and possibly pedestrians share the crossing path. Drivers should watch for cyclists.,assets/29.png
+Passage de velos,Indique un passage où les bicyclettes et éventuellement les piétons partagent le chemin de croisement. Les conducteurs doivent surveiller les cyclistes.,assets/29.png
+عبور الدراجات,يشير إلى معبر حيث تشترك الدراجات وربما المشاة في مسار العبور. يجب على السائقين مراقبة الدراجين.,assets/29.png
+Roundabout,"Indicates the approach to a roundabout, a circular intersection where drivers must yield to traffic in the roundabout before entering.",assets/40.png
+Rond-point,"Indique l'approche d'un rond-point, une intersection circulaire où les conducteurs doivent céder le passage à la circulation dans le rond-point avant d'entrer.",assets/40.png
+الدوار,يشير إلى الاقتراب من دوار، وهو تقاطع دائري حيث يجب على السائقين إعطاء الأولوية لحركة المرور في الدوار قبل الدخول.,assets/40.png
+Parking,Indicates a designated area where vehicles are allowed to park. Follow local rules for duration and payment if applicable.,assets/43.png
+stationnement,Indique une zone désignée où les véhicules sont autorisés à se garer. Suivez les règles locales concernant la durée et le paiement si applicable.,assets/43.png
+موقف سيارات,يشير إلى منطقة مخصصة يُسمح فيها بوقوف السيارات. اتبع القواعد المحلية بخصوص المدة والدفع إن وجدت.,assets/43.png
+No Parking,Indicates areas where vehicles are not allowed to park. Parking here may lead to fines or towing.,assets/44.png
+Pas de stationnement,Indique les zones où le stationnement des véhicules est interdit. Se garer ici peut entraîner des amendes ou le remorquage.,assets/44.png
+ممنوع الوقوف,يشير إلى المناطق التي لا يُسمح بوقوف السيارات فيها. الوقوف هنا قد يؤدي إلى غرامات أو سحب السيارة.,assets/44.png
