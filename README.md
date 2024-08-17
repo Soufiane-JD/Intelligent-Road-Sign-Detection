@@ -49,11 +49,23 @@ This project focuses on real-time detection and recognition of road signs using 
    - Install the app.
    - Go to settings and change the server URL to the Flask application URL.
 
-3. **Start detection of Road Signs from an Image:**
-   <img src="https://github.com/user-attachments/assets/c34ac24e-bc75-48e0-b0d8-030ffdc08b76" alt="Detection from an Image" width="200">
+3. **Detection of Road Signs from an Image:**
+   - **Camera Button:** Activates the device's camera, allowing users to take a new photo.
+   - **Gallery Button:** Provides access to the device's gallery, enabling users to select an existing image.
+   - **Voice Activation:** A checkbox that activates the application's text-to-speech functionality, announcing the names of detected road signs aloud.
+   - **Detection Results:** Displays the detection results obtained from the camera or an image from the gallery, including the type of sign and its accuracy.
+      <img src="https://github.com/user-attachments/assets/c34ac24e-bc75-48e0-b0d8-030ffdc08b76" alt="Detection from an Image" width="200">
 
-4. **Start Real-Time Road Sign Detection:**
-   <img src="https://github.com/user-attachments/assets/ee26e0fc-e1a0-4fef-a14d-82b1cd257327" alt="Real-Time Detection" width="200">
+5. **Start Real-Time Road Sign Detection:**
+   **Buttons:**
+   
+   - **Direct Activation Button:** Activates the camera in video mode for real-time detection of road signs.
+   - **Direct Deactivation Button:** Stops the real-time detection of road signs.
+   
+   **Voice Activation:** A checkbox that enables the text-to-speech functionality.
+   
+   **Real-Time Detection Results:** Displays the real-time results, showing detected road signs on the screen with their class and accuracy.
+      <img src="https://github.com/user-attachments/assets/ee26e0fc-e1a0-4fef-a14d-82b1cd257327" alt="Real-Time Detection" width="200">
 
 ## Project Structure
 
